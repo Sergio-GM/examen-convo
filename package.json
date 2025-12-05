@@ -11,15 +11,17 @@
   },
   "dependencies": {
     "pg": "^8.16.3",
-    "@strapi/strapi": "^4.x.x", 
-    "@strapi/plugin-users-permissions": "^4.x.x", 
-    "@strapi/plugin-i18n": "^4.x.x"
+    "@strapi/strapi": "^4.x.x",
+    "@strapi/plugin-users-permissions": "^4.x.x",
+    "@strapi/plugin-i18n": "^4.x.x",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "author": {
     "name": "A Strapi user"
   },
   "strapi": {
-    "uuid": "..."
+    "uuid": ""
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
