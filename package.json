@@ -1,5 +1,11 @@
 {
+  "scripts": {
+    "start": "strapi start",
+    "develop": "strapi develop",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
   "dependencies": {
-    "pg": "^8.16.3"
-  }
+    "pg": "^8.16.3",
+  },
 }
