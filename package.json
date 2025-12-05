@@ -7,7 +7,8 @@
     "start": "strapi start",
     "develop": "strapi develop",
     "build": "strapi build",
-    "strapi": "strapi"
+    "strapi": "strapi",
+    "serve": "strapi start" 
   },
   "dependencies": {
     "pg": "^8.16.3",
